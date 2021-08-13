@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl: 'https://curso-angular-auth-64.herokuapp.com/api'
 };
